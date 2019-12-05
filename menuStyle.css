@@ -1,0 +1,189 @@
+
+.menuH {
+	text-align: center;
+}
+
+.choose {
+	display: inline-flex;
+	justify-content: center;
+	width: 90%
+}
+
+
+.tacos {
+	border: 2px solid #d4d442;
+	margin: 5px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.tacos h1 {
+	font-size: 4em;
+	margin: 2px;
+}
+
+
+.tacos h3 {
+	margin: 2px;
+}
+
+.tacoOptions {
+	display: flex;
+	flex-direction: column;
+	width: 80%;
+}
+
+.tacoOptions h1, h4 {
+	margin: 2px 20px 1px 20px;
+}
+
+.fillings {
+	border: 2px solid #d4d442;
+	margin: 10px;
+
+}
+
+.dishInfo {
+	display: inline-flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.dishName {
+	font-size: 3.5em;
+	margin-left: 20px;
+	width: 85%;
+}
+
+
+.price {
+	font-size: 3.5em;
+}
+
+.addOns {
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.addOns h3 {
+	margin: 0px 0px 2px 0px;
+}
+
+.addOnsSection {
+	display: inline-flex;
+	justify-content: space-between;
+}
+
+.ourSalsas {
+	width: 50%;
+}
+
+.salsas {
+	width: 100%;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.img-fluid {
+	max-width: 65%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+}
+
+.menuPicture {
+	display: flex;
+} */
+
+
+/* 
+@media only screen and (max-width: 1200px) {
+
+	.menuSection {
+		width: 90%;
+  }
+
+  .choose  {
+	width: 90%;
+}
+
+.tacos h1  {
+	font-size: 2em;
+}
+
+.dishName  {
+	font-size: 1.7em;
+}
+
+.price  {
+	font-size: 1.7em;
+}
+
+.menu h3 {
+	font-size: 1.2em;
+}
+
+}
+
+@media only screen and (max-width: 850px) {
+
+	.menuSection {
+		width: 100%;
+  }
+
+  .choose  {
+	width: 100%;
+}
+
+.menuH , .salsas {
+	font-size: 1.2em;
+}
+
+.tacos h1  {
+	font-size: 1.5em;
+}
+
+.dishName ,.price {
+	font-size: 1.2em;
+}
+
+.menu h3, .dish {
+	font-size: 1em;
+}
+
+}
+
+@media only screen and (max-width: 665px) {
+
+.menuH , .salsas {
+	font-size: 1em;
+}
+
+.tacos h1  {
+	font-size: 1em;
+}
+
+.dishName ,.price{
+	font-size: 1em;
+}
+
+.menu h3 ,.dish  {
+	font-size: 0.8em;
+}
+
+}
+
+@media only screen and (max-width: 500px) {
+	.menuSection {
+		display: none;
+	}
+	.menuPicture {
+		display: flex;
+	}
+	
+	} */
